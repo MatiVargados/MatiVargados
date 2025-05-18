@@ -2,8 +2,8 @@
 
 <h2 align="center">Full Stack Developer, specialized in Python from Argentina</h2>
 
-### <img src="https://i.pinimg.com/originals/a2/38/d2/a238d2916547ae1aa1738c7e134385e0.gif" width="30px"> &nbsp;About Me
----
+<h2><img src="https://i.pinimg.com/originals/a2/38/d2/a238d2916547ae1aa1738c7e134385e0.gif" width="30px"> &nbsp;About Me</h2>
+
 <picture><img align="right" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width = 250px></picture>
 
 - I am a `junior` and I study at the UTN (National Technological University).
@@ -15,9 +15,9 @@
 
 
 <br>
-<br>
 
-<hr>
+
+<h2 align=center> &nbsp;Contact Me </h2>
 
 <div align=center>
   <a href="https://www.linkedin.com/in/kartikkapgate/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
