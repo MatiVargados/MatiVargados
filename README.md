@@ -39,16 +39,16 @@
 <h2 align="center">📩 Contact Me</h2>
 
 <p align="center">
-  <a href="mailto:leandra.silva@ccc.ufcg.edu.br">
+  <a href="mailto:mativargados@gmail.com?subject=Hi%20Mati%20,%20nice%20to%20meet%20you!">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/leandra-silva-831b891ab/">
+  <a href="https://www.linkedin.com/in/matias-vargados-5b02a3357/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/_leandra.oliveiras">
+  <a href="https://www.instagram.com/mati_vargados/">
     <img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://discord.com/users/TU-ID-DE-DISCORD">
+  <a href="https://discord.com/channels/@me/696998447097577482")>
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
