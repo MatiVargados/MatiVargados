@@ -1,32 +1,79 @@
-<h1 align="center"> Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I´m Matias J Vargados <img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" width="40px" </h1>
+<div align=center>
 
-<h2 align="center">Full Stack Developer, specialized in Python from Argentina</h2>
-
-<h2><img src="https://i.pinimg.com/originals/a2/38/d2/a238d2916547ae1aa1738c7e134385e0.gif" width="30px"> &nbsp;About Me</h2>
-
-<picture><img align="right" src="https://i.giphy.com/qgQUggAC3Pfv687qPC.webp" width = 250px></picture>
-
-- I am a `junior` and I study at the UTN (National Technological University).
-
-- I specialize in `backend` but I know how to handle the `frontend`.
-
-- Currently looking for my first opportunity in the `IT` field to apply and improve my skills in real-world projects.
-
-
-
-<br>
-
-
-<h2> &nbsp;Contact Me  📩</h2>
-
-<div>
-  <a href="https://www.linkedin.com/in/matias-vargados-5b02a3357/" target="_blank"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
-  <a href="mailto:mativargados@gmail.com?subject=Hi%20Mati%20,%20nice%20to%20meet%20you!" target="_blank"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
-  <a target="_blank" href="https://discord.com/channels/@me/696998447097577482"><img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white"></img></a>
+<img width="80%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/>
+<!--
+<img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+-->
 </div>
 
-<h2>Technologies That I Know👨🏻‍💻</h2>
+<div align=center>
 
-<img href="https://skillicons.dev" src="https://skillicons.dev/icons?i=vscode,git,github,mysql,mongodb,py,java,html,css,js,nodejs" />
+### Hi, I'm Mati, a developer 🚀 from Argentina
 
+</div>
+
+<div align=center>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3500&pause=1000&width=435&center=true&vCenter=true&lines=Programming+Student;Back-End+Developer;Problem+Solver;Freelancer;Open-Source+Enthusiast)](https://git.io/typing-svg)
+
+</div>
+
+<div align=center>
+
+[![](https://img.shields.io/badge/LinkedIn-2962c4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasvargados/)
+[![](https://img.shields.io/badge/Gmail-c43c37?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matiasvargados@gmail.com)
+[![](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/mati_vargados)
+
+</div>
+
+---
+
+<div>
+
+### 💡About me
+
+- 💻 I am a University Technician in Programming  
+- 📚 Currently, I am studying at UTN Fra
+- 📝 I have a strong interest in Backend and Mobile Development
+- 🌱 Learning JavaScript with NodeJS
+- 🌟 Main languages: Python, Java
+- 🚩 Interested in operating systems based on GNU/Linux (Arch, Ubuntu, etc)
+- 🙋‍♂️ Reach out to me at: matiasvargados@gmail.com
+
+</div>
+
+
+### 🧠 My Skills
+---
+<h4>Languages</h4>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+<h4>Other Tools and Technologies</h4>
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<!--
+---
+-->
+<!--
+### 📊 Github stats
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ivosaja&label=Profile%20views&color=0e75b6&style=flat" alt="Ivosaja"/></p>
+
+[![](https://github-readme-stats.vercel.app/api?username=Ivosaja&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Ivosaja)
+-->
+
+<!--
+[![](https://github-readme-stats.vercel.app/api?username=Ivosaja&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Ivosaja)
+
+[![](https://github-readme-streak-stats.herokuapp.com?user=Ivosaja&theme=dark)](https://git.io/streak-stats)
+-->
 
