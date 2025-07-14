@@ -57,7 +57,7 @@
 
 <h2 align="center">📈 My Statistics on GitHub</h2>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MatiVargados&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiVargados&theme=tokyonight" />
 </p>
 
 
