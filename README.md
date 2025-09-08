@@ -46,7 +46,7 @@
   <a href="mailto:mativargados@gmail.com?subject=Hi%20Mati%20,%20nice%20to%20meet%20you!">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/matias-vargados-5b02a3357/">
+  <a href="https://www.linkedin.com/in/matias-vargados-393319383/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/mati_vargados/">
