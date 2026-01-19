@@ -12,11 +12,10 @@
 </picture>
 
 <p>
-  I'm a <strong>Junior Developer</strong> currently pursuing a <strong>Bachelor's Degree in Programming</strong> at the <strong>National Technological University (UTN)</strong>.<br>
-  My main focus is on <strong>backend development</strong>, but I also have experience in <strong>frontend technologies</strong>, which enables me to work comfortably in <strong>full-stack environments</strong>.<br>
-  I'm eager to <strong>grow professionally in the IT field</strong>, take on new challenges, and contribute with passion and dedication as a developer.
+I'm Matias Vargados, a software developer and advanced student in the University Technical Program in Programming at UTN. I specialize in backend development and have experience in frontend, which allows me to work as a full-stack developer. My professional goal is to continue growing and contribute more efficient solutions.
 </p>
 
+<br>
 <br>
 <br>
 
@@ -85,6 +84,10 @@
 
   <a href="https://github.com/MatiVargados/MVGames">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiVargados&repo=MVGames&theme=tokyonight" />
+  </a> 
+
+  <a href="https://github.com/MatiVargados/Detail.git">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MatiVargados&repo=Detail&theme=tokyonight" />
   </a> 
 </p>
 
